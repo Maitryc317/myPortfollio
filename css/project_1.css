@@ -1,0 +1,101 @@
+.p1-subheading{
+    font-size: 2.3rem;
+}
+
+/* About Project Section */
+#about-project-section {
+  padding: 3% 5%;
+}
+.p1-heading {
+  margin-bottom: 3%;
+}
+.p1-para {
+  font-size: 1.8rem;
+}
+.fig-1 {
+  display: block;
+  width: 69.5rem;
+  margin: 2% auto;
+}
+.p1-para2 {
+  padding-left: 7.4%; /* W.r.t Chrome */
+}
+
+/* Current Web Section */
+#current-web-section{
+    padding: 5% 15%;
+}
+.user-persona{
+    margin: 7% 0;
+}
+
+/* Goal Section  */
+#goals, #user-interview, #affinity-mapping, #empathy-mapping, #competitor-analysis{
+    padding: 5% 10%;
+}
+.chart-img{
+    width: 20%;
+}
+
+/* user-interview section */
+
+/* affinity-mapping section */
+
+
+/* empathy-mapping section */
+
+
+/* problem-statement section */
+#problem-statement{
+    padding: 3% 10%;
+}
+
+/* brainstroming-section */
+#brainstroming-section{
+    padding: 3% 8%;
+}
+
+/* user-journey-section  */
+#user-journey-section{
+    padding: 3% 12.6%;
+}
+
+/* competitor-analysis section  */
+
+
+/* card sorting section */
+#card-sorting-section{
+    padding: 3% 13.6%;
+}
+
+/* site map section */
+#sitemap-section{
+    padding: 3% 17.6%;
+}
+
+#userflow-section{
+    padding: 3% 16%;
+}
+
+#mood-board-section{
+    padding: 3% 18.5%;
+}
+
+#wireframe-section{
+    padding: 3% 14.7%;
+}
+
+#prototype-section{
+    padding: 3% 12%;
+}
+
+#high-fidelity-prototype{
+    padding: 3% 12%;
+}
+
+#high-fidelity-testing-section{
+    padding: 3% 12%;
+}
+
+
+
